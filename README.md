@@ -1,6 +1,6 @@
 # TravelAnalytics-Dashboard via MongoDB Atlas
 
-## Acknowledgment
+## Acknowledgement
 I would like to express my heartfelt gratitude to the following individuals and sources for their support and inspiration during this project:
 
 Prof. Ashok K Harnal
