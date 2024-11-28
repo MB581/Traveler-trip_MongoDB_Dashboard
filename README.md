@@ -9,23 +9,18 @@ I deeply appreciate the guidance and mentorship of Prof. Ashok K Harnal, whose i
 
 Dataset Source
 
-The project utilizes a traveler-trip dataset, providing insights into demographic preferences, travel costs, and trends to design better travel packages and marketing strategies. (https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data?resource=download)
+The project utilizes a traveler-trip dataset, providing insights into demographic preferences, travel costs, and trends to design better travel packages and [marketing strategies](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data?resource=download)
 
 ## Introduction
-This project leverages MongoDB Atlas to create a dynamic and insightful dashboard analyzing travel patterns and preferences. The dashboard reveals actionable insights about traveler demographics, destinations, accommodation, transportation, and costs, empowering travel companies to craft data-driven marketing strategies and tailored travel packages.
+>This project leverages MongoDB Atlas to create a dynamic and insightful dashboard analyzing travel patterns and preferences. The dashboard reveals actionable insights about traveler demographics, destinations, accommodation, transportation, and costs, empowering travel companies to craft data-driven marketing strategies and tailored travel packages.
 
 ## Table Of Contents
 
-1.) Project Overview
-
-2.) Objectives
-
-3.) Features and Dataset
-
-4.) Dashboard Overview
-
-5.) Business Insights
-
+>1.) Project Overview<br>
+>2.) Objectives<br>
+3.) Features and Dataset<br>
+4.) Dashboard Overview<br>
+5.) Business Insights<br>
 6.) Insights
 
 7.) How to Install and Use
