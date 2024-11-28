@@ -4,9 +4,11 @@
 I would like to express my heartfelt gratitude to the following individuals and sources for their support and inspiration during this project:
 
 Prof. Ashok K Harnal
+
 I deeply appreciate the guidance and mentorship of Prof. Ashok K Harnal, whose insights significantly contributed to the successful completion of this project.
 
 Dataset Source
+
 The project utilizes a traveler-trip dataset, providing insights into demographic preferences, travel costs, and trends to design better travel packages and marketing strategies. (https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data?resource=download)
 
 ## Introduction
