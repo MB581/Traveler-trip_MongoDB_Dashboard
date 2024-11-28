@@ -149,7 +149,7 @@ Insights: Popular destinations like Rome, Tokyo, and Sydney stand out, emphasizi
 
 ![Trip duration distribution](https://github.com/user-attachments/assets/b9033b87-b2c4-4158-b576-614ce20220c5)
 
-Description: A line chart showing the number of travelers and their trip durations for each transportation mode.
+Description: An area chart showing the number of travelers and their trip durations for each transportation mode.
 
 Insights: Airplane trips are associated with longer durations, while train journeys are shorter, reflecting the nature of intercity or international travel.
 
