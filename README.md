@@ -109,7 +109,7 @@ Insights: Airplanes are the most used transportation mode by both genders, while
 
 ![Total cost](https://github.com/user-attachments/assets/15a5667b-9ffb-489f-bfc6-ec38b6c9437f)
 
-Description: A bar chart comparing the total costs (accommodation and transportation) for each destination.
+Description: These line and area charts comparing the total costs (accommodation and transportation) for each destination.
 
 Insights: Paris and Rome incur the highest total costs, while destinations like Phuket and Bangkok are more budget-friendly, reflecting their appeal to cost-conscious travelers.
 
