@@ -165,7 +165,7 @@ Insights: Major travel hubs like Paris, London, and Tokyo attract significant nu
 
 ![Accommodation cost VS Transportation cost](https://github.com/user-attachments/assets/dcd4c288-28d9-4464-ad27-b6c63548d029)
 
-Description: A scatter plot comparing accommodation and transportation costs in London.
+Description: A line chart comparing accommodation and transportation costs in London.
 
 Insights: Higher transportation costs are associated with lower accommodation expenses, suggesting budget trade-offs made by travelers.
 
