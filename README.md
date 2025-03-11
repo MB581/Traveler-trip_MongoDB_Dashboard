@@ -47,9 +47,7 @@
 ## Features and Dataset
 
 >This dataset provides a basis for understanding travel preferences, cost patterns, and demographic trends, supporting the creation of targeted travel packages and marketing strategies. [Source](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data?resource=download)<br>
-
 >>Traveler Demographics: Information on traveler gender and age, allowing for analysis of demographic preferences in destinations, transportation, and accommodations.<br>
-
 >>Destinations: Various travel destinations are represented, with data indicating their popularity and associated travel costs.<br>
 
 >>Accommodation Details: Data on preferred accommodation types (e.g., hotels, budget stays, homestays) by destination, specifically highlighting preferences in destinations like Bali and Paris.<br>
